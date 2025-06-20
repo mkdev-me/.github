@@ -1,6 +1,6 @@
 ## Innovate Faster with Zero Compromises
 
-We're **mkdev** – a team of experts passionate about Cloud Native technologies, deep automation, and AI. We help organizations boost productivity, reduce cloud costs and complexity, and become true tech leaders.
+We're **mkdev** – a team of experts passionate about Cloud Native technologies, deep automation, and AI. We help organizations boost productivity, reduce cloud costs and complexity, and become true tech leaders. We are Germany-based 🇩🇪 but we fully embrace remote work, with our team spread across EU 🇪🇺.
 
 ### 🚀 What We Do
 
